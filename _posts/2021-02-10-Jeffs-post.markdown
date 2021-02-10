@@ -8,7 +8,7 @@ Howdy, my name is Jeff Golze and I am a Junior Technology Management Major. I am
 
 Before coming to A&M, I attended The Woodlands Highschool where I was a member of both the football team and the AFJROTC program. Throughout my highschool career I set my sights on attending Texas A&M University in College Station. I found an interest in Information Technology during my senior year of highschool and have enjoyed learning more about the feild ever since.
 
-Some of my intrests include camping, hiking and rafting. I enjoy pretty much any outdoor activity and I occasinally do small wood carvings in my spare time.
+Some of my interests include camping, hiking and rafting. I enjoy pretty much any outdoor activity and I occasinally do small wood carvings in my spare time.
 
 Here is some information about one of my favorite place I have ever hiked. [Crater Lake][Crater Lake]
 
