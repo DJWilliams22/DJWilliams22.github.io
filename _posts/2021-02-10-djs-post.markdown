@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Welcome to Technology Management Group 7 Blog! - Donalds Post"
+date:   2021-02-08 19:34:39 -0600
+categories: jekyll update
+---
+Howdy, my name is Donald Williams and I am a senior Technology Management Major. I am from Ennis, Texas and I am just 21 years young. 
+
+This was a really interesting project deploying this blog post, and I enjoyed working with GitHub as well as the VS Code Editor. I am hoping to continue working and get a job in Cybersecurity one day. First though, I would love to get my masters in information science or Cybersecurity, hopefully here at Texas A&M.
+
+Brady won his 7th ring on Sunday. I was rooting for the Buccaneers and Brady, but I was hoping Mahommes and the Chiefs would have given them a much closer game. The final score was 31-9. Either way, Brady is the GOAT!
+
+Check out the [box score][box-score] and statistics here. 
+
+
+
+[box-score]:https://www.google.com/search?rlz=1C1CHBF_enUS893US894&ei=Hz4kYKbTDIawsAWCh7b4Bw&q=final+score+chiefs+vs+buccaneers&oq=final+score+chiefs+vs+buccaneers&gs_lcp=CgZwc3ktYWIQAzIICCEQFhAdEB4yCAghEBYQHRAeMggIIRAWEB0QHjoICAAQsQMQgwE6BQguEJECOgQILhBDOgIIADoFCAAQsQM6CAguELEDEIMBOgsILhCxAxDHARCjAjoOCC4QsQMQgwEQxwEQowI6BQgAEJECOgsILhDHARCvARCRAjoKCAAQsQMQgwEQQzoECAAQQzoLCAAQsQMQgwEQkQI6BwgAELEDEEM6BwguELEDEEM6BwgAEMkDEEM6CAguELEDEJECOggILhDHARCvAToFCC4QsQM6CwguELEDEJECEJMCOgoILhCxAxCDARBDOggILhCxAxCTAjoCCC46CQgAEA0QRhD9AToECAAQDToHCAAQRhD9AToGCAAQFhAeUN16WI-uAWCXrwFoAnAAeACAAXWIAc8TkgEEMzMuMZgBAKABAaoBB2d3cy13aXqwAQDAAQE&sclient=psy-ab&ved=0ahUKEwjm3p6nkODuAhUGGKwKHYKDDX8Q4dUDCA0&uact=5#sie=m;/g/11byxflc60;6;/m/059yj;dt;fp;1;;
