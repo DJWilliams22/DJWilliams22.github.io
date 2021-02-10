@@ -10,7 +10,7 @@ Before coming to A&M, I attended The Woodlands Highschool where I was a member o
 
 Some of my interests include camping, hiking and rafting. I enjoy pretty much any outdoor activity and I occasinally do small wood carvings in my spare time.
 
-Here is some information about one of my favorite place I have ever hiked. [Crater Lake][Crater Lake]
+Here is some information about one of my favorite places I have ever hiked. [Crater Lake][Crater Lake]
 
 
 
