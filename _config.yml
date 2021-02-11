@@ -27,7 +27,7 @@ twitter_username: tcmggroup7
 github_username:  tcmggroup7
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
