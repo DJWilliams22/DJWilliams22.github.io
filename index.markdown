@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<img src="assets/logo.jpg" alt="Team 7 Logo" style="max-width:10%;height:auto;">
